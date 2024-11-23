@@ -6,7 +6,7 @@
 - 👀 I’m interested in modeling and data development, with a focus on building predictive models, designing data pipelines, and leveraging machine learning techniques to solve real-world problems.
 
 ## Contact
-[Salma Benmoussa](https://www.linkedin.com/in/salma-benmoussa/)
+- [Salma Benmoussa](https://www.linkedin.com/in/salma-benmoussa/)
 
 
 
