@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 👋 Hi ! My name is Salma and I'm a 23 years old Data Scientist Junior.
 - 🌱 I’m currently working on the explainability of ML models at Nexialog Consulting.
