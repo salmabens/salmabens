@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 👋 Hi ! My name is Salma and I'm a 24 years old Data Scientist Junior.
-- 🌱 I’m currently working on the explainability of ML models at [Nexialog Consulting](https://www.nexialog.com).
-- 📓 I'm a student in data science and financial modeling at Paris 1 Panthéon Sorbonne University.
-- 👀 I’m interested in modeling and data development, with a focus on building predictive models, designing data pipelines, and leveraging machine learning techniques to solve real-world problems.
+👋 Hello! I'm Salma, a 24-year-old Junior Data Scientist passionate about transforming data into actionable insights. Currently, I'm working at Nexialog Consulting, focusing on the explainability of machine learning models. Alongside my professional experience, I'm pursuing a Master's degree in Data Science and Financial Modeling at Paris 1 Panthéon-Sorbonne University.
+
+🌱 My main interests lie in predictive modeling, data pipeline design, and applying machine learning techniques to tackle real-world challenges. I’m driven by a desire to create robust, scalable solutions that bridge the gap between data and decision-making.
 
 ## Contact
 - [Salma Benmoussa](https://www.linkedin.com/in/salma-benmoussa/)
